@@ -43,4 +43,4 @@ This repository leverages open climate and corporate data to evaluate the enviro
 ```bash
 git clone https://github.com/yourusername/ClimateCorpInsights.git  
 cd ClimateCorpInsights  
-pip install -r requirements.txt  # Includes pandas, plotly, requests  
+pip install -r requirements.txt  
